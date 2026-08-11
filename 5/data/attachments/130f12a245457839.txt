@@ -1,0 +1,2 @@
+FINAL URL: https://automationexercise.com/api/productsList
+STATUS: 200
